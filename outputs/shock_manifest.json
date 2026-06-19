@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2017-07-21",
+    "segment_dim": "category",
+    "segment_value": "bed_bath_table",
+    "multiplier": 9.0,
+    "description": "Synthetic spike: bed_bath_table \u00d79 (simulates flash-sale surge)",
+    "original_gmv": 2905.33,
+    "new_gmv": 26147.97,
+    "delta": 23242.64
+  },
+  {
+    "date": "2018-06-30",
+    "segment_dim": "region",
+    "segment_value": "Southeast",
+    "multiplier": 0.8,
+    "description": "Synthetic drop: Southeast \u221220% (simulates regional fulfilment outage)",
+    "original_gmv": 9607.75,
+    "new_gmv": 7686.200000000001,
+    "delta": -1921.5499999999993
+  },
+  {
+    "date": "2017-05-16",
+    "segment_dim": "category",
+    "segment_value": "sports_leisure",
+    "multiplier": 4.0,
+    "description": "Synthetic spike: sports_leisure \u00d74 (simulates viral sporting-event promotion)",
+    "original_gmv": 4392.88,
+    "new_gmv": 17571.52,
+    "delta": 13178.64
+  }
+]

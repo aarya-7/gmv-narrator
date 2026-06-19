@@ -1,0 +1,12 @@
+{"date": "2017-04-18", "direction": "spike", "severity": "medium", "z_score": 3.84, "pct_change": 118.47, "segment_dim": "category", "top_driver": "small_appliances"}
+{"date": "2017-05-16", "direction": "spike", "severity": "high", "z_score": 8.34, "pct_change": 149.96, "segment_dim": "category", "top_driver": "sports_leisure"}
+{"date": "2017-07-21", "direction": "spike", "severity": "medium", "z_score": 4.28, "pct_change": 125.94, "segment_dim": "category", "top_driver": "bed_bath_table"}
+{"date": "2017-11-20", "direction": "spike", "severity": "high", "z_score": 6.43, "pct_change": 100.08, "segment_dim": "region", "top_driver": "Southeast"}
+{"date": "2017-11-21", "direction": "spike", "severity": "medium", "z_score": 3.58, "pct_change": 51.8, "segment_dim": "region", "top_driver": "Southeast"}
+{"date": "2017-11-23", "direction": "spike", "severity": "high", "z_score": 5.03, "pct_change": 90.35, "segment_dim": "region", "top_driver": "Southeast"}
+{"date": "2017-11-24", "direction": "spike", "severity": "high", "z_score": 29.79, "pct_change": 558.02, "segment_dim": "region", "top_driver": "Southeast"}
+{"date": "2017-11-25", "direction": "spike", "severity": "high", "z_score": 8.35, "pct_change": 160.55, "segment_dim": "region", "top_driver": "Southeast"}
+{"date": "2017-11-26", "direction": "spike", "severity": "medium", "z_score": 4.28, "pct_change": 90.71, "segment_dim": "region", "top_driver": "Southeast"}
+{"date": "2017-11-27", "direction": "spike", "severity": "medium", "z_score": 4.21, "pct_change": 99.29, "segment_dim": "region", "top_driver": "Southeast"}
+{"date": "2017-11-28", "direction": "spike", "severity": "medium", "z_score": 3.98, "pct_change": 96.12, "segment_dim": "region", "top_driver": "Southeast"}
+{"date": "2018-06-30", "direction": "drop", "severity": "medium", "z_score": -3.82, "pct_change": -52.08, "segment_dim": "region", "top_driver": "Southeast"}
